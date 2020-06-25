@@ -1,6 +1,6 @@
 ![Docofossor Logo][logo]
 
-[logo]: /img/logo_df.png "Docofossor Logo"
+[Docofossor Logo](/img/logo_df.png)
 
 # Docofossor
 
